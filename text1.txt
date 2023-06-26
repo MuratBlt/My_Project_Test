@@ -1,2 +1,3 @@
 örnek uygulama github için
 ikinci satır test2
+üçüncü deneme clone
