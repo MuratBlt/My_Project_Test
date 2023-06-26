@@ -1,1 +1,2 @@
 örnek uygulama github için
+ikinci satır test2
